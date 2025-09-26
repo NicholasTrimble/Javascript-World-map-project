@@ -1,0 +1,17 @@
+path {
+    fill: #cccccc;
+    stroke: #000;
+    stroke-width: 0.5;
+    cursor: pointer;
+  }
+  
+  path:hover {
+    fill: #999999;
+  }
+  
+  path.selected {
+    fill: #ffcc00; 
+  }
+ath.selected {
+    fill: #ffcc00; 
+  }
